@@ -19,9 +19,9 @@ trim-request is very simple to use, just import the package and use one of its m
 `trimRequest.query` trim the query string object 
 
 ```javascript
-const trimRequest = require('trim-request');
+const trimRequest = require('@classuper/trim-request');
 
-app.post('/person', trimRequest.all, (req, res, next) => { 
+app.post('/person', trimRequest.all(), (req, res, next) => { 
 
     res.json(req.body);
 
