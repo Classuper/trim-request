@@ -1,6 +1,6 @@
 {
-  "name": "trim-request",
-  "version": "1.0.5",
+  "name": "@classuper/trim-request",
+  "version": "2.0.0",
   "description": "Express middleware to trim all incoming request object",
   "main": "index.js",
   "scripts": {
@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Younell/trim-request"
+    "url": "https://github.com/classuper/trim-request"
   },
   "bugs": {
-    "url": "https://github.com/Younell/trim-request/issues"
+    "url": "https://github.com/classuper/trim-request/issues"
   },
   "keywords": [
     "express",
@@ -22,6 +22,6 @@
     "query",
     "string"
   ],
-  "author": "Younes Elfe <younes.efe@gmail.com>",
+  "author": "Alexey Kucherenko<alexei.kucherenko@gmail.com>",
   "license": "MIT"
 }
